@@ -1,4 +1,4 @@
-# Any Civitai FLUX.1 model — RunPod Serverless worker
+# FLUX.1 Universal — RunPod Serverless worker
 
 A ready-to-build [RunPod Serverless](https://runpod.io?ref=qpguwapm) worker for **any FLUX.1 model on Civitai or Hugging Face** — FLUX.1 dev, schnell and Krea fine-tunes. You paste the model's Civitai or Hugging Face link into the `Dockerfile`; the build downloads that model and bakes it into the image. Based on the official [`runpod/worker-comfyui`](https://github.com/runpod-workers/worker-comfyui).
 

@@ -3,7 +3,7 @@
   "engine": "comfyui",
   "kind": "Text To Image",
   "id": "civitai-flux",
-  "label": "Any Civitai FLUX.1 model",
+  "label": "FLUX.1 Universal",
   "note": "Paste a Civitai model link in Cobalt Pear's «Your own worker» to set it up for that model. FLUX.1 settings: 25 steps (4 for a schnell model), Flux guidance 3.5. No negative prompt.",
   "civitai": "flux",
   "sizes": [
